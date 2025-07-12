@@ -1,4 +1,4 @@
-# 📢 Event Poster Information Extractor
+# 📢 Event Poster Key Information Extractor
 
 A powerful tool that automatically extracts key information from event posters using OCR technology and intelligent pattern recognition. Built with DocTR for optical character recognition and Gradio for an intuitive web interface.
 
@@ -35,8 +35,8 @@ The system automatically identifies and extracts:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/event-poster-extractor.git
-cd event-poster-extractor
+git clone https://github.com/Waleed-Ijaz/Event-Poster-Key-Information-extractor.git
+cd Event-Poster-Key-Information-extractor
 ```
 
 2. **Install dependencies**
@@ -119,7 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions, please:
-1. Check the [Issues](https://github.com/yourusername/event-poster-extractor/issues) section
+1. Check the [Issues](https://github.com/Waleed-ijaz/Event-Poster-Key-Information-extractor/issues) section
 2. Create a new issue if your problem isn't already reported
 3. Provide detailed information about your problem
 
